@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="hint_title">Write general..</string>
+    <string name="hint_desc">Write description..</string>
+    <string name="button_save_note">Add</string>
+    <string name="warning_fill">All lines must be full!</string>
+    <string name="back_btn">Back</string>
+    <string-array name="days_of_weel">
+        <item>Everyday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
